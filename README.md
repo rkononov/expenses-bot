@@ -12,5 +12,5 @@ This application support the [Getting Started with Ruby on Dokkur](https://dokku
 
 For more information about using Ruby on Dokkur, see these Documentation articles:
 
-- [Ruby on Heroku](https://dokkur.com/#!/documentation/getting_started/ruby)
+- [Getting Started with Ruby on Dokkur](https://dokkur.com/#!/documentation/getting_started/ruby)
 
